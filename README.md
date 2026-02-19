@@ -121,7 +121,7 @@ streamlit run ragchatbot.py
 ## 👨‍💻 Author
 
 **Vishal Bisht**
-Aspiring Software Engineer & AI Enthusiast
+Software Engineer & AI Enthusiast
 
 ---
 
